@@ -12,7 +12,7 @@ body {
     color: white;
 }
 
-/* Canvas Background */
+/* Canvas Background  */
 #weatherCanvas {
     position: fixed;
     top: 0;
@@ -23,7 +23,7 @@ body {
     transition: filter 0.5s ease;
 }
 
-/* UI Overlay */
+/*  UI Overlay  */
 #app-ui {
     position: relative;
     z-index: 10;
