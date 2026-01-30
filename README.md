@@ -6,7 +6,7 @@ What is it?
 This app allows users to search for any city to retrieve current meteorological data, including temperature, humidity, and wind conditions. It features a dynamic interface that updates based on the local weather of the searched location.
 The Stack
 
-  Frontend: HTML5, CSS3, and Vanilla JavaScript.
+  Frontend: HTML5, CSS3, BootStrapCss, and Vanilla JavaScript.
 
   API: OpenWeatherMap API for live data fetching.
 
